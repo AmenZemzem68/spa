@@ -10011,6 +10011,11 @@ h6,
     url(../img/chirurgie-esthetique.jpg), no-repeat center center;
   background-size: cover;
 }
+.bg-appointment1 {
+  background: linear-gradient(rgba(33, 30, 28, 0.7), rgba(33, 40, 28, 0.7)),
+    url(../img/dr.jpg), no-repeat center center;
+  background-size: cover;
+}
 
 .bg-pricing {
   background: linear-gradient(rgba(33, 30, 28, 0.7), rgba(33, 40, 28, 0.7)),
